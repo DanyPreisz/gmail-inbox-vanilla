@@ -1,0 +1,26 @@
+[
+  {
+    "id": "m1",
+    "from": "banco@mail.com",
+    "subject": "Resumen de septiembre",
+    "body": "Tu resumen ya está disponible.",
+    "read": false,
+    "star": false
+  },
+  {
+    "id": "m2",
+    "from": "luna@mail.com",
+    "subject": "Mate a las 18",
+    "body": "Paso por casa. Traé facturas.",
+    "read": true,
+    "star": true
+  },
+  {
+    "id": "m3",
+    "from": "github@mail.com",
+    "subject": "PR review",
+    "body": "Hay comentarios en el vanilla zip.",
+    "read": false,
+    "star": false
+  }
+]
